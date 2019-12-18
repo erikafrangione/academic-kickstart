@@ -22,13 +22,13 @@ bio: My research interests include bioinformatics, genomics, and cell/molecular 
 
 interests:
 - Bioinformatics
-- Comparative genomics/transcriptomics
+- Genomics/transcriptomics
 - Cell/Molecular Biology
 
 education:
   courses:
   - course: M.Sc. in Ecology and Evolutionary Biology
-    institution: University of Torontoniversity of Toronto
+    institution: University of Toronto
     year: Degree to be conferred in June 2020
   - course: H.B.Sc. in Biotechnology
     institution: University of Toronto
