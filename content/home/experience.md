@@ -18,27 +18,43 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Laboratory Research Assistant"
+  company = "University of Toronto Mississauga"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  location = "Mississauga, ON"
+  date_start = "2018 - PRESENT"
   date_end = ""
   description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+  * **A high throughput RNAseq pipeline for comparative transcriptomics in plants       performed primarily in a command line environment
+  * Performed RNA extractions of plant tissue prior to next- generation sequencing•Pre-processed and cleaned reads using Python, Trim Galore!, BBtools
+  * Assembled and refined reference transcriptomes using Trinity, CD-HIT, BUSCO, Transrate, Bowtie2, with annotations performed using Trans-decoder, Trinotate, BLAST, GOseq
+  * Mapping of gene expression counts to assemblies using RSEM, with normalization and differential expression analyses using EdgeR
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Teaching Assistant"
+  company = "University of Toronto Mississauga"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Mississauga, ON"
+  date_start = "2018 - PRESENT"
+  date_end = ""
+  description = """
+  * BIO360: Biometrics I (Biological Statistics), Computer Practical TA
+  * BIO207: Intro. Genetics, Tutorial TA
+  * BIO206: Intro. Cell and Molecular Biology, Laboratory TA
+  * BIO202: Intro. Animal Physiology, Laboratory and Tutorial TA
+  * BIO152: Intro. Evolution and Evolutionary Genetics, Laboratory TA
+  """
 
+[[experience]]
+  title = "Undergraduate Research (ROP project)"
+  company = "University of Toronto Mississauga"
+  company_url = ""
+  location = "Mississauga, ON"
+  date_start = "2017 - 2018"
+  date_end = ""
+  description = """
+  * Title: ”Plastid genome assembly and annotation of a parasitic plant species”
+  * Senior undergraduate comparative genomics project involving the assembly and annotation of a chloroplast genome using Geneious
+  """
 +++
