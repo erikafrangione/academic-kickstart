@@ -33,9 +33,20 @@ subtitle = ""
 ##  description = ""
 
 [[feature]]
-  icon = "microscope"
+  icon = "poll-h"
   icon_pack = "fas"
-  name = "Wet-lab"
+  name = "Geneious and Trinity"
 ##  description = ""
 
+[[feature]]
+  icon = "vials"
+  icon_pack = "fas"
+  name = "DNA/RNA extraction"
+##  description = ""
+
+[[feature]]
+  icon = "dna"
+  icon_pack = "fas"
+  name = "PCR"
+##  description = ""
 +++
