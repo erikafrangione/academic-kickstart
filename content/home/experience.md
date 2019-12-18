@@ -22,12 +22,13 @@ date_format = "Jan 2006"
   company = "University of Toronto Mississauga"
   company_url = ""
   location = "Mississauga, ON"
-  date_start = ""
+  date_start = "Jul 2018"
   date_end = ""
   description = """
-  * **A high throughput RNAseq pipeline for comparative transcriptomics in plants       performed primarily in a command line environment
-  * Performed RNA extractions of plant tissue prior to next- generation sequencing•Pre-processed and cleaned reads using Python, Trim Galore!, BBtools
-  * Assembled and refined reference transcriptomes using Trinity, CD-HIT, BUSCO, Transrate, Bowtie2, with annotations performed using Trans-decoder, Trinotate, BLAST, GOseq
+  * **A high throughput RNAseq pipeline for comparative transcriptomics in plants performed primarily in a command line environment
+  * Performed RNA extractions of plant tissue prior to next-generation sequencing
+  * Pre-processed and cleaned reads using Python, Trim Galore!, BBtools
+  * Assembled and refined reference transcriptomes using Trinity, CD-HIT, BUSCO, Transrate, Bowtie2, with annotations performed using         Trans-decoder, Trinotate, BLAST, GOseq
   * Mapping of gene expression counts to assemblies using RSEM, with normalization and differential expression analyses using EdgeR
   """
 
@@ -36,7 +37,7 @@ date_format = "Jan 2006"
   company = "University of Toronto Mississauga"
   company_url = ""
   location = "Mississauga, ON"
-  date_start = ""
+  date_start = "Sept 2018"
   date_end = ""
   description = """
   * BIO360: Biometrics I (Biological Statistics), Computer Practical TA
@@ -51,8 +52,8 @@ date_format = "Jan 2006"
   company = "University of Toronto Mississauga"
   company_url = ""
   location = "Mississauga, ON"
-  date_start = ""
-  date_end = ""
+  date_start = "Sept 2017"
+  date_end = "Apr 2018"
   description = """
   * Title: ”Plastid genome assembly and annotation of a parasitic plant species”
   * Senior undergraduate comparative genomics project involving the assembly and annotation of a chloroplast genome using Geneious
