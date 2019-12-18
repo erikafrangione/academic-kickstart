@@ -38,7 +38,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Mississauga, ON"
   date_start = "Sep 2018"
-  date_end = ""
+  date_end = "Jul 2019"
   description = """
   * BIO360: Biometrics I (Biological Statistics), Computer Practical TA
   * BIO207: Intro. Genetics, Tutorial TA
