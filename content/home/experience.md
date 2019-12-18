@@ -24,8 +24,7 @@ date_format = "Jan 2006"
   location = "Mississauga, ON"
   date_start = "Jul 2018"
   date_end = ""
-  description = 
-  """
+  description = """
   * **A high throughput RNAseq pipeline for comparative transcriptomics in plants performed primarily in a command line environment
   * Performed RNA extractions of plant tissue prior to next-generation sequencing
   * Pre-processed and cleaned reads using Python, Trim Galore!, BBtools
@@ -40,8 +39,7 @@ date_format = "Jan 2006"
   location = "Mississauga, ON"
   date_start = "Sep 2018"
   date_end = "Jul 2019"
-  description = 
-  """
+  description = """
   * BIO360: Biometrics I (Biological Statistics), Computer Practical TA
   * BIO207: Intro. Genetics, Tutorial TA
   * BIO206: Intro. Cell and Molecular Biology, Laboratory TA
@@ -56,8 +54,7 @@ date_format = "Jan 2006"
   location = "Mississauga, ON"
   date_start = "Sep 2017"
   date_end = "Apr 2018"
-  description = 
-  """
+  description = """
   * Title: ”Plastid genome assembly and annotation of a parasitic plant species”
   * Senior undergraduate comparative genomics project involving the assembly and annotation of a chloroplast genome using Geneious
   """
