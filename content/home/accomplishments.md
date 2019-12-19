@@ -30,21 +30,21 @@ date_format = "Jan 2006"
 
 [[item]]
   organization = "Ontario Biology Day 2018"
-  organization_url = "https://www.edx.org"
+  organization_url = ""
   title = "1st Place Best Talk in Cell, Molecular and Genetics"
   url = ""
   certificate_url = "https://conferences.wlu.ca/obd2018/awards/"
-  date_start = "2018-03-24"
+  date_start = "2018-03-29"
   date_end = ""
   description = "Award sponsored by MacMillan Learning"
   
 [[item]]
   organization = "University of Toronto Mississauga"
-  organization_url = "https://www.datacamp.com"
+  organization_url = ""
   title = "Runner Up for Best Presentation"
   url = ""
   certificate_url = "https://www.utm.utoronto.ca/biology/biology-research-course-bio481"
-  date_start = "2018-03-29"
+  date_start = "2018-03-24"
   date_end = ""
   description = "Award sponsored by the annual UTM Biology Symposium"
 
