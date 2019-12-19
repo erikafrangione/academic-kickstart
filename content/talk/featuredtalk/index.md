@@ -3,7 +3,7 @@ title: Comparative Transcriptomics of Repeated Reticulate Evolution in the Genus
 event: Botany 2019
 event_url: http://2019.botanyconference.org/engine/search/index.php?func=detail&aid=458
 
-location: Tuscson, AZ, USA
+location: Botany 2019 in Tucson, AZ, USA
 #address:
 #  street: 450 Serra Mall
 #  city: Stanford
@@ -11,13 +11,13 @@ location: Tuscson, AZ, USA
 #  postcode: '94305'
 #  country: United States
 
-summary: First Talk in Comparative Genetics/Genomics
+summary: My first talk in the Comparative Genetics/Genomics section at Botany 2019
 # abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2019-07-01T13:04:30Z"
-date_end: "2019-07-01T15:04:45Z"
+date: "2019-07-01T14:30:00Z"
+date_end: "2019-07-01T14:45:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
