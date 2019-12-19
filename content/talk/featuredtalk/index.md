@@ -1,5 +1,5 @@
 ---
-title: Comparative Transcriptomics of Repeated Reticulate Evolution in the Genus *Cuscuta* (Convolvulaceae)
+title: Comparative Transcriptomics of Repeated Reticulate Evolution in the Genus Cuscuta (Convolvulaceae)
 event: Botany 2019
 event_url: http://2019.botanyconference.org/engine/search/index.php?func=detail&aid=458
 
