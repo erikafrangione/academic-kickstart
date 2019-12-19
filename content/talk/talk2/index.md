@@ -54,9 +54,9 @@ tags:
 # Is this a featured talk? (true/false)
 featured: true
 
-#image:
-# caption: '[**Wilfrid Laurier University**](obd.jpg)'
-# focal_point: Right
+image:
+  caption: '[**Wilfrid Laurier University**](obd.jpg)'
+  focal_point: Right
 
 #links:
 #- icon: twitter
