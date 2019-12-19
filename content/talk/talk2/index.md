@@ -55,7 +55,7 @@ tags:
 featured: true
 
 image:
-  caption: '[**Wilfrid Laurier University**](obd.jpg)'
+  caption: '[**Wilfrid Laurier University**](featured.jpg)'
   focal_point: Right
 
 #links:
