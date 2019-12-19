@@ -1,9 +1,9 @@
 ---
-title: Comparative Transcriptomics of Repeated Reticulate Evolution in the Genus Cuscuta (Convolvulaceae)
+title: Comparative Transcriptomics of Repeated Reticulate Evolution in the Genus *Cuscuta* (Convolvulaceae)
 event: Botany 2019
 event_url: http://2019.botanyconference.org/engine/search/index.php?func=detail&aid=458
 
-location: Botany 2019 in Tucson, AZ, USA
+location: Tucson, AZ, USA
 #address:
 #  street: 450 Serra Mall
 #  city: Stanford
