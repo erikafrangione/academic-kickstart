@@ -3,7 +3,7 @@ title: Repeated Reticulate Evolution in the Genus Cuscuta
 event: University of Toronto - Atwood Colloquium in Ecology & Evolution
 event_url: http://www.eeb.utoronto.ca/Assets/EEB+2013+Digital+Assets/Atwood+Program+2019+(revised).pdf
 
-location: Toronto, Canada
+location: Toronto, ON, Canada
 #address:
 #  street: 450 Serra Mall
 #  city: Stanford
