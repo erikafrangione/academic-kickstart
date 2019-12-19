@@ -10,7 +10,7 @@ subtitle = ""
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
-date_format = "Jan 2006"
+date_format = "2006-01-01"
 
 # Experiences.
 #   Add/remove as many `[[experience]]` blocks below as you like.
@@ -22,7 +22,7 @@ date_format = "Jan 2006"
   company = "University of Toronto Mississauga"
   company_url = ""
   location = "Mississauga, ON"
-  date_start = ""
+  date_start = "2018-07-01"
   date_end = ""
   description = """
   * **A high throughput RNAseq pipeline for comparative transcriptomics in plants performed primarily in a command line environment
@@ -37,7 +37,7 @@ date_format = "Jan 2006"
   company = "University of Toronto Mississauga"
   company_url = ""
   location = "Mississauga, ON"
-  date_start = ""
+  date_start = "2018-09-01"
   date_end = ""
   description = """
   * BIO360: Biometrics I (Biological Statistics), Computer Practical TA
@@ -52,8 +52,8 @@ date_format = "Jan 2006"
   company = "University of Toronto Mississauga"
   company_url = ""
   location = "Mississauga, ON"
-  date_start = ""
-  date_end = ""
+  date_start = "2017-09-01"
+  date_end = "2018-04-30"
   description = """
   * Title: ”Plastid genome assembly and annotation of a parasitic plant species”
   * Senior undergraduate comparative genomics project involving the assembly and annotation of a chloroplast genome using Geneious
