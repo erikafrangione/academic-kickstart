@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Conference&shy;Talks&shy;&&shy;Awards"
+title = "Awards"
 subtitle = ""
 
 # Date format
@@ -19,33 +19,33 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
+  organization = "Botany 2019"
+  organization_url = ""
+  title = "Margaret Menzel Award"
   url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
+  certificate_url = "https://cms.botany.org/home/awards/annual-award-recipients/2019-award-recipients.html#menzel"
+  date_start = "2019-07-01"
   date_end = ""
-  description = ""
+  description = "For the most outstanding paper presented in the Genetics Section of Botany 2019 (sponsored by the Botanical Society of America)"
 
 [[item]]
-  organization = "edX"
+  organization = "Ontario Biology Day 2018"
   organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
+  title = "1st Place Best Talk in Cell, Molecular and Genetics"
+  url = ""
+  certificate_url = "https://conferences.wlu.ca/obd2018/awards/"
+  date_start = "2018-03-24"
   date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
+  description = "Award sponsored by MacMillan Learning"
   
 [[item]]
-  organization = "DataCamp"
+  organization = "University of Toronto Mississauga"
   organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
+  title = "Runner Up for Best Presentation"
   url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
-  description = ""
+  certificate_url = "https://www.utm.utoronto.ca/biology/biology-research-course-bio481"
+  date_start = "2018-03-29"
+  date_end = ""
+  description = "Award sponsored by the annual UTM Biology Symposium"
 
 +++
