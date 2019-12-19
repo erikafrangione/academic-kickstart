@@ -37,7 +37,7 @@ tags:
 featured: true
 
 image:
-  caption: [**Conference Award Announcement**](featured.jpg)
+  caption: '[**Conference Award Announcement**](featured.jpg)'
   focal_point: Right
 
 #links:
