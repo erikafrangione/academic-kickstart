@@ -1,9 +1,9 @@
 ---
-title: Repeated Reticulate Evolution in the Genus Cuscuta
-event: University of Toronto - Atwood Colloquium in Ecology & Evolution
-event_url: http://www.eeb.utoronto.ca/Assets/EEB+2013+Digital+Assets/Atwood+Program+2019+(revised).pdf
+title: Comparative Transcriptomics of Repeated Reticulate Evolution in the Genus Cuscuta (Convolvulaceae)
+event: Botany 2019 - Tuscon, AZ, USA
+event_url: http://2019.botanyconference.org/engine/search/index.php?func=detail&aid=458
 
-location: Toronto, Canada
+location: Tuscon, AZ, USA
 #address:
 #  street: 450 Serra Mall
 #  city: Stanford
@@ -11,13 +11,13 @@ location: Toronto, Canada
 #  postcode: '94305'
 #  country: United States
 
-summary: Annual departmental seminar to showcase my graduate research
+summary: My first talk in the Comparative Genetics/Genomics section at Botany 2019
 abstract: ""
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2019-04-13T15:50:00Z"
-#date_end: "2019-04-13T16:45:00Z"
+date: "2019-07-30T16:30:00Z"
+#date_end: "2019-07-30T16:45:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
@@ -27,7 +27,6 @@ authors:
 - Erika Frangione
 - Saša Stefanović
 tags: 
-- Evolution
 - Transcriptome
 - Hybrids
 - Polyploids
@@ -37,9 +36,9 @@ tags:
 # Is this a featured talk? (true/false)
 featured: true
 
-#image:
-#  caption: '[**Conference Award Announcement**](featured.jpg)'
-#  focal_point: Right
+image:
+  caption: '[**Conference Award Announcement**](featured.jpg)'
+  focal_point: Right
 
 #links:
 #- icon: twitter
