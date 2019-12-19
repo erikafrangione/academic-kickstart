@@ -23,8 +23,15 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 #publishDate: "2017-01-01T00:00:00Z"
 
-authors: ['Frangione, Erika', 'Stefanović, Saša']
-tags: ['Transcriptome', 'Hybrids', 'Polyploids' 'Next-Gen Sequencing', "Parasites']
+authors: 
+- Erika Frangione
+- Saša Stefanović
+tags: 
+- Transcriptome
+- Hybrids
+- Polyploids
+- Next-Gen Sequencing
+- Parasites
 
 # Is this a featured talk? (true/false)
 featured: true
