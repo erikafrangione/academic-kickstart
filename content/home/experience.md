@@ -10,7 +10,7 @@ subtitle = ""
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
-date_format = "2006-01-01"
+date_format = "Jan 2006"
 
 # Experiences.
 #   Add/remove as many `[[experience]]` blocks below as you like.
@@ -25,7 +25,7 @@ date_format = "2006-01-01"
   date_start = "2018-07-01"
   date_end = ""
   description = """
-  * **A high throughput RNAseq pipeline for comparative transcriptomics in plants performed primarily in a command line environment
+  * A high throughput RNAseq pipeline for comparative transcriptomics in plants performed primarily in a command line environment
   * Performed RNA extractions of plant tissue prior to next-generation sequencing
   * Pre-processed and cleaned reads using Python, Trim Galore!, BBtools
   * Assembled and refined reference transcriptomes using Trinity, CD-HIT, BUSCO, Transrate, Bowtie2, with annotations performed using         Trans-decoder, Trinotate, BLAST, GOseq
