@@ -16,8 +16,8 @@ summary: My first talk in the Comparative Genetics/Genomics section at Botany 20
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2019-07-01T14:30:00Z"
-date_end: "2019-07-01T14:45:00Z"
+date: "2019-07-01T16:30:00Z"
+date_end: "2019-07-01T16:45:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
