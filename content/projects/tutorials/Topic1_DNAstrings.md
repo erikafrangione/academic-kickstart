@@ -5,7 +5,7 @@ summary: A showcase of my solutions to common bioinformatics problems
 weight: 1
 
 # Page metadata.
-title: Solutions to Bioinformatics Python and Bash Problems
+title: Python Solutions
 date: "2018-09-09T00:00:00Z"
 lastmod: "2018-09-09T00:00:00Z"
 draft: false  # Is this a draft? true/false
@@ -17,7 +17,7 @@ type: docs  # Do not modify.
 # - weight: Position of link in menu.
 menu:
   example:
-    name: Topic 1: Using DNA as a String
+    name: Topic 1
     weight: 1
 ---
 
