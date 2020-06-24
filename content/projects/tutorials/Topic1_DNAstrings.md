@@ -1,11 +1,11 @@
 ---
 # Course title, summary, and position.
-linktitle: Topic 1: Using DNA as a String
+linktitle: Solutions to Bioinformatics Python and Bash Problems
 summary: A showcase of my solutions to common bioinformatics problems
 weight: 1
 
 # Page metadata.
-title: Solutions to Bioinformatics Python Problems
+title: Topic 1: DNA as a String
 date: "2018-09-09T00:00:00Z"
 lastmod: "2018-09-09T00:00:00Z"
 draft: false  # Is this a draft? true/false
@@ -17,7 +17,7 @@ type: docs  # Do not modify.
 # - weight: Position of link in menu.
 menu:
   example:
-    name: Topic 1: Using DNA as a String
+    name: Topic 1: DNA as a String
     weight: 1
 ---
 
@@ -28,7 +28,6 @@ menu:
 
 #### Given: A DNA string *s*
 #### Required: The length of *s*.
-
 
 ```python
 # Read in DNA string
@@ -44,7 +43,6 @@ print(GeneLength)
 
 #### Given: A DNA string *s*
 #### Required: The first 3 and last 3 nucleotides from *s*.
-
 
 ```python
 # Read in DNA string
@@ -64,7 +62,6 @@ print(last_3_nucleotides)
 #### Given: A DNA string *s*
 #### Required: Concatenate the first 10 bases to the last 10 bases of *s*.
 
-
 ```python
 # Read in DNA string
 file = open("my_gene.txt")
@@ -83,7 +80,6 @@ print(first_and_last_10)
 
 #### Given: A DNA string *s*
 #### Required: Calculate the GC content of *s* and store it as a percentage.
-
 
 ```python
 # Read in DNA string
@@ -109,7 +105,6 @@ print(GC_content)
 #### Given: A DNA string *s*
 #### Required: Store the reverse complement of *s* as an uppercase string.
 
-
 ```python
 # Read in DNA string
 file = open("my_gene.txt")
@@ -132,7 +127,6 @@ print(reverse_comp)
 #### Given: A DNA string *s*
 #### Required: Find the position of the first restriction site "CCATGG" in *s* (i.e., CCA/TGG blunt end cutter)
 
-
 ```python
 # Read in DNA string
 file = open("my_gene.txt")
@@ -147,7 +141,6 @@ print(restriction_site)
 
 #### Given: A DNA string *s*
 #### Required: Count the number of bands that would appear on a gel after digesting *s* with a restriction enzyme that cuts at the same restriction site(s) mentioned in Problem 6A.
-
 
 ```python
 # Read in DNA string
@@ -166,7 +159,6 @@ number_of_bands = restriction_sites + 1
 
 #### Given: A DNA string *s*
 #### Required: Store each of the given exon lists extracted from *s* into a single larger list.
-
 
 ```python
 # Read in DNA string
@@ -189,7 +181,6 @@ print(exons)
 
 #### Given: A DNA string *s*
 #### Required: Given the previous exon coordinates for *s*, extract the exons and splice (join) them together to make a protein coding gene.
-
 
 ```python
 # Read in DNA string
