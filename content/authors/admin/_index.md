@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: M.Sc. student in Evolutionary Genetics/Genomics
+role: M.Sc. graduate in Evolutionary Genetics/Genomics
 
 # Organizations/Affiliations
 organizations:
