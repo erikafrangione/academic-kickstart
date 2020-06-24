@@ -25,7 +25,7 @@
   
  [[main]]
   name = "Portfolio"
-  url = "#projects"
+  url = "tutorials/"
   weight = 50
 
 [[main]]
