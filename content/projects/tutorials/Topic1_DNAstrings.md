@@ -5,7 +5,7 @@ summary: A showcase of my solutions to common bioinformatics problems
 weight: 1
 
 # Page metadata.
-title: Overview
+title: Solutions to Bioinformatics Python and Bash Problems
 date: "2018-09-09T00:00:00Z"
 lastmod: "2018-09-09T00:00:00Z"
 draft: false  # Is this a draft? true/false
@@ -17,7 +17,7 @@ type: docs  # Do not modify.
 # - weight: Position of link in menu.
 menu:
   example:
-    name: Topic 1
+    name: Topic 1: Using DNA as a String
     weight: 1
 ---
 
@@ -26,8 +26,8 @@ menu:
 
 ## 1. Find the length of a gene
 
-#### Given: A DNA string *s*
-#### Required: The length of *s*.
+Given: A DNA string *s*.
+Required: The length of *s*.
 
 ```python
 # Read in DNA string
@@ -41,8 +41,8 @@ print(GeneLength)
 
 ## 2. Extracting Nucleotides from a gene
 
-#### Given: A DNA string *s*
-#### Required: The first 3 and last 3 nucleotides from *s*.
+Given: A DNA string *s*.
+Required: The first 3 and last 3 nucleotides from *s*.
 
 ```python
 # Read in DNA string
@@ -59,8 +59,8 @@ print(last_3_nucleotides)
 
 ## 3. Concatenating bases in a gene
 
-#### Given: A DNA string *s*
-#### Required: Concatenate the first 10 bases to the last 10 bases of *s*.
+Given: A DNA string *s*.
+Required: Concatenate the first 10 bases to the last 10 bases of *s*.
 
 ```python
 # Read in DNA string
@@ -78,8 +78,8 @@ print(first_and_last_10)
 
 ## 4. Calculating GC content in a gene
 
-#### Given: A DNA string *s*
-#### Required: Calculate the GC content of *s* and store it as a percentage.
+Given: A DNA string *s*.
+Required: Calculate the GC content of *s* and store it as a percentage.
 
 ```python
 # Read in DNA string
@@ -102,8 +102,8 @@ print(GC_content)
 
 ## 5. Find the reverse complement of a gene
 
-#### Given: A DNA string *s*
-#### Required: Store the reverse complement of *s* as an uppercase string.
+Given: A DNA string *s*.
+Required: Store the reverse complement of *s* as an uppercase string.
 
 ```python
 # Read in DNA string
@@ -124,8 +124,8 @@ print(reverse_comp)
 
 ## 6A. Cleaving DNA into Restriction Fragments
 
-#### Given: A DNA string *s*
-#### Required: Find the position of the first restriction site "CCATGG" in *s* (i.e., CCA/TGG blunt end cutter)
+Given: A DNA string *s*.
+Required: Find the position of the first restriction site "CCATGG" in *s* (i.e., CCA/TGG blunt end cutter).
 
 ```python
 # Read in DNA string
@@ -139,8 +139,8 @@ print(restriction_site)
 
 ## 6B. Count the Number of Restriction Fragments
 
-#### Given: A DNA string *s*
-#### Required: Count the number of bands that would appear on a gel after digesting *s* with a restriction enzyme that cuts at the same restriction site(s) mentioned in Problem 6A.
+Given: A DNA string *s*.
+Required: Count the number of bands that would appear on a gel after digesting *s* with a restriction enzyme that cuts at the same restriction site(s) mentioned in Problem 6A.
 
 ```python
 # Read in DNA string
@@ -157,8 +157,8 @@ number_of_bands = restriction_sites + 1
 
 ## 7. Storing Exons in Lists
 
-#### Given: A DNA string *s*
-#### Required: Store each of the given exon lists extracted from *s* into a single larger list.
+Given: A DNA string *s*.
+Required: Store each of the given exon lists extracted from *s* into a single larger list.
 
 ```python
 # Read in DNA string
@@ -179,8 +179,8 @@ print(exons)
 
 ## 8.  Splicing a gene
 
-#### Given: A DNA string *s*
-#### Required: Given the previous exon coordinates for *s*, extract the exons and splice (join) them together to make a protein coding gene.
+Given: A DNA string *s*.
+Required: Given the previous exon coordinates for *s*, extract the exons and splice (join) them together to make a protein coding gene.
 
 ```python
 # Read in DNA string
