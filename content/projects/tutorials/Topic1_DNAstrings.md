@@ -1,6 +1,6 @@
 ---
 # Course title, summary, and position.
-linktitle: Topic 1
+linktitle: Topic 1: Using DNA as a String
 summary: A showcase of my solutions to common bioinformatics problems
 weight: 1
 
