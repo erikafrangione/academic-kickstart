@@ -1,5 +1,5 @@
 ---
-title: DNA as a String
+title: Using DNA as a String
 linktitle: Topic 1
 toc: true
 type: docs
@@ -13,8 +13,6 @@ menu:
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 1
 ---
-
-## Topic 1: Using DNA as a String
 
 ## 1. Find the length of a gene
 
