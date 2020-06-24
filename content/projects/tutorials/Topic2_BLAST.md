@@ -15,7 +15,6 @@ weight: 1
 ---
 
 ## 1. Counting amino acids
-
 Given: A protein string *s*.
 
 Required: The number of amino acids in *s*
@@ -31,7 +30,6 @@ print(AA_count)
 ```
 
 ## 2. Extracting sequence names from a FASTA file
-
 Given: A protein FASTA file *f*.
 
 Required: Store the protein sequence name from *f* as a string.
@@ -48,12 +46,11 @@ print(protein_name)
 ```
 
 ## 3. Extracting Accession Identifiers for all hits in a BLASTp output
-
 Given: A BLASTp output file *b*.
 
 Required: Extract all accession identifiers from *b* and store them in a list.
 
-## *OPTIONAL STEP*
+## *Optional Step*
 Running BLASTp through a command line call (BASH)
 
 ```bash
@@ -62,10 +59,10 @@ blastp -query my_protein.fasta -db NR -out BLASTp_output.txt -outfmt 6
 ```
 
 Where:
-    -query is the protein fasta file input
-    -db is the protein database used to perform the search (Non Redundant)
-    -out is the BLASTp output stored as a txt file
-    -outfmt is the flag that determines which BLAST output format to use (6 will output a table)
+*    -query is the protein fasta file input
+*    -db is the protein database used to perform the search (Non Redundant)
+*    -out is the BLASTp output stored as a txt file
+*    -outfmt is the flag that determines which BLAST output format to use (6 will output a table)
 
 ```python
 # Read in BLASTp output
@@ -86,7 +83,6 @@ print(accessions)
 ```
 
 ## 4. Calculating the average percent of bases that differ between two species
-
 Given: A BLASTn output file *b*.
 
 Required: Store the percent of sites that differ between Reference 1 and Reference 2 mRNAs from *b* as a float (do not include a percent symbol).
@@ -101,9 +97,9 @@ blastn -query ref_1_mRNA.fasta -db ref_2_mRNA_fix.fasta -out ref1_vs_ref2.mRNA.t
 ```
 
 Additional flags:
-    -num_alignments tells BLAST to only report the 1 best alignment for each query
-    -max_hsps tells BLAST to only report the top high scoring pair (HSP), or the best local alignment
-    -evalue tells BLAST to only output alignments with e-values less than the assigned number
+*    -num_alignments tells BLAST to only report the 1 best alignment for each query
+*    -max_hsps tells BLAST to only report the top high scoring pair (HSP), or the best local alignment
+*    -evalue tells BLAST to only output alignments with e-values less than the assigned number
 
 ```python
 # Read in BLASTn output
@@ -135,7 +131,6 @@ print(percent_different)
 ```
 
 ## 5. Quantify the ratio of indels to substitutions between two species
-
 Given: A BLASTn output file *b*.
 
 Required: Store the ratio of indels to single nucleotide substitions between Reference 1 and Reference 2 mRNAs from *b* as a float (do not include a percent symbol).
