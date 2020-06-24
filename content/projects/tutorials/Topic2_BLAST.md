@@ -53,15 +53,15 @@ Given: A BLASTp output file *b*.
 
 Required: Extract all accession identifiers from *b* and store them in a list.
 
-### *OPTIONAL STEP*
-#### Running BLASTp through a command line call (BASH)
+## *OPTIONAL STEP*
+Running BLASTp through a command line call (BASH)
 
 ```bash
 %%bash
 blastp -query my_protein.fasta -db NR -out BLASTp_output.txt -outfmt 6
 ```
 
-### Where:
+Where:
     -query is the protein fasta file input
     -db is the protein database used to perform the search (Non Redundant)
     -out is the BLASTp output stored as a txt file
@@ -91,8 +91,8 @@ Given: A BLASTn output file *b*.
 
 Required: Store the percent of sites that differ between Reference 1 and Reference 2 mRNAs from *b* as a float (do not include a percent symbol).
 
-### *Optional Step*
-#### Running BLASTn through a command line call (BASH)
+## *Optional Step*
+Running BLASTn through a command line call (BASH)
 
 ```bash
 %%bash
@@ -100,11 +100,7 @@ Required: Store the percent of sites that differ between Reference 1 and Referen
 blastn -query ref_1_mRNA.fasta -db ref_2_mRNA_fix.fasta -out ref1_vs_ref2.mRNA.txt -outfmt 6 -num_alignments 1 -max_hsps 1 -evalue 1e-10
 ```
 
-    Warning: [blastn] Examining 5 or more matches is recommended
-
-
-
-### Additional flags:
+Additional flags:
     -num_alignments tells BLAST to only report the 1 best alignment for each query
     -max_hsps tells BLAST to only report the top high scoring pair (HSP), or the best local alignment
     -evalue tells BLAST to only output alignments with e-values less than the assigned number
