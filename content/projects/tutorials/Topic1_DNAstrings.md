@@ -27,6 +27,7 @@ menu:
 ## 1. Find the length of a gene
 
 Given: A DNA string *s*.
+
 Required: The length of *s*.
 
 ```python
@@ -42,6 +43,7 @@ print(GeneLength)
 ## 2. Extracting Nucleotides from a gene
 
 Given: A DNA string *s*.
+
 Required: The first 3 and last 3 nucleotides from *s*.
 
 ```python
@@ -60,6 +62,7 @@ print(last_3_nucleotides)
 ## 3. Concatenating bases in a gene
 
 Given: A DNA string *s*.
+
 Required: Concatenate the first 10 bases to the last 10 bases of *s*.
 
 ```python
@@ -79,6 +82,7 @@ print(first_and_last_10)
 ## 4. Calculating GC content in a gene
 
 Given: A DNA string *s*.
+
 Required: Calculate the GC content of *s* and store it as a percentage.
 
 ```python
@@ -103,6 +107,7 @@ print(GC_content)
 ## 5. Find the reverse complement of a gene
 
 Given: A DNA string *s*.
+
 Required: Store the reverse complement of *s* as an uppercase string.
 
 ```python
@@ -125,6 +130,7 @@ print(reverse_comp)
 ## 6A. Cleaving DNA into Restriction Fragments
 
 Given: A DNA string *s*.
+
 Required: Find the position of the first restriction site "CCATGG" in *s* (i.e., CCA/TGG blunt end cutter).
 
 ```python
@@ -140,6 +146,7 @@ print(restriction_site)
 ## 6B. Count the Number of Restriction Fragments
 
 Given: A DNA string *s*.
+
 Required: Count the number of bands that would appear on a gel after digesting *s* with a restriction enzyme that cuts at the same restriction site(s) mentioned in Problem 6A.
 
 ```python
@@ -158,6 +165,7 @@ number_of_bands = restriction_sites + 1
 ## 7. Storing Exons in Lists
 
 Given: A DNA string *s*.
+
 Required: Store each of the given exon lists extracted from *s* into a single larger list.
 
 ```python
@@ -180,6 +188,7 @@ print(exons)
 ## 8.  Splicing a gene
 
 Given: A DNA string *s*.
+
 Required: Given the previous exon coordinates for *s*, extract the exons and splice (join) them together to make a protein coding gene.
 
 ```python
