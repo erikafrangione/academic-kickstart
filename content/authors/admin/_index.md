@@ -29,7 +29,7 @@ education:
   courses:
   - course: M.Sc. in Ecology and Evolutionary Biology
     institution: University of Toronto
-    year: Degree to be conferred in June 2020
+    year: 2020
   - course: H.B.Sc. in Biotechnology
     institution: University of Toronto
     year: 2018
@@ -64,6 +64,4 @@ email: ""
 # - Visitors
 ---
 
-My name is Erika! I recently defended my M.Sc. thesis focusing on Evolutionary Genetics/Genomics at the University of Toronto. I use a combination of bioinformatics, genomics, and statistical techniques in my research, specializing in sequencing pipelines for high throughput DNA/RNA sequence data analysis. I also have an excellent knowledge of cell and molecular biology protocols in the wet-lab.
-
-I’m passionate about learning to code, volunteering in science outreach programs, and teaching the next generation of scientists. 
+My name is Erika! I’m a recent M.Sc. graduate from the University of Toronto specializing in evolutionary genetics/genomics. My interest in cutting-edge biological research began as an undergraduate student working in a genomics-based laboratory where I studied the link between plant parasitism and gene loss in chloroplasts. In my graduate work, I started to specialize in developing pipelines for high throughput NGS data analysis, and gained experience performing WGS and RNA-seq workflows using bioinformatics and statistical tools. Working on these projects has helped me acquire a strong interest in coding, allowed me to volunteer in many science outreach programs, and strengthened my ability to teach university level science across a broad spectrum of biological subjects.
