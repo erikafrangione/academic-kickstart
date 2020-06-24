@@ -1,5 +1,5 @@
 ---
-title: BLAST
+title: Working with BLAST
 linktitle: Topic 2
 toc: true
 type: docs
@@ -13,8 +13,6 @@ menu:
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 1
 ---
-
-## Topic 2: Working with BLAST
 
 ## 1. Counting amino acids
 
