@@ -18,25 +18,25 @@ subtitle = ""
   icon = "linux"
   icon_pack = "fab"
   name = "Bash"
-  ##description = ""
+  description = "Shell scripting and SSH for running bioinformatics workflows. Highly familiar with using HPC clusters and scheduling jobs through the SLURM workload manager."
   
 [[feature]]
   icon = "python"
   icon_pack = "fab"
   name = "Python 3"
- ## description = ""  
+  description = "Experience with biological computation with Biopython, data visualization/manipulation with matplotlib, pandas, etc."  
   
 [[feature]]
   icon = "r-project"
   icon_pack = "fab"
   name = "R Studio"
-##  description = ""
+  description = "Statistical hypothesis testing using Rcmdr, data visualization/manipulation with Tidyverse, gene expression analysis with Bioconductor."
 
 [[feature]]
   icon = "poll-h"
   icon_pack = "fas"
   name = "Geneious and Trinity"
-##  description = ""
+  description = "For high throughput WGS and RNA-seq pipelines."
 
 [[feature]]
   icon = "vials"
