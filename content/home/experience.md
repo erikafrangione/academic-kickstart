@@ -25,11 +25,16 @@ date_format = "Jan 2006"
   date_start = "2018-07-01"
   date_end = ""
   description = """
-  * A high throughput RNAseq pipeline for comparative transcriptomics in plants performed primarily in a command line environment
-  * Performed RNA extractions of plant tissue prior to next-generation sequencing
-  * Pre-processed and cleaned reads using Python, Trim Galore!, BBtools
-  * Assembled and refined reference transcriptomes using Trinity, CD-HIT, BUSCO, Transrate, Bowtie2, with annotations performed using         Trans-decoder, Trinotate, BLAST, GOseq
-  * Mapping of gene expression counts to assemblies using RSEM, with normalization and differential expression analyses using EdgeR
+  * Independently designed a high throughput RNA-seq pipeline for comparative transcriptomics in plants within a Linux environment.
+  * Performed RNA extractions of multiple plant species at a quality suitable for next-generation sequencing.
+  * Pre-processed and cleaned reads using tools such as Bowtie2, Samtools, BUSCO, Trim Galore!, BBtools, BLAST, and personally written Python scripts.
+  * Assembled, annotated, and refined comprehensive reference transcriptomes using packages from the Trinity suite.
+  * Quantified transcript expression counts with RSEM and searched for differential gene expression between plant populations with EdgeR.
+  * Generated and maintained large genomic datasets such as genomic assembly files, functional annotation information, and gene expression matrices. Regularly worked with common bioinformatics file formats including fastq, fasta, bam, sam, vcf, gff, gtf, nwk, and various BLAST output formats.
+  * Conducted statistical analyses and data visualization/manipulation using packages in R and Python (e.g., Tidyverse, Bioconductor, Biopython).
+  * Routinely prepared detailed summary and progress reports of research findings.
+  * Supervised and mentored undergraduate students as they worked on independent bioinformatics research projects.
+
   """
 
 [[experience]]
@@ -38,13 +43,18 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Mississauga, ON"
   date_start = "2018-09-01"
-  date_end = ""
+  date_end = "2020-04-30"
   description = """
   * BIO360: Biometrics I (Biological Statistics), Computer Practical TA
+      * Taught computer practical sessions for statistical hypothesis testing using R Studio (topics included teaching general R workflows for biostatistics with Rcmdr, parametric vs. non-parametric tests, power analysis, chi-squared tests, regression, and ANOVA).
   * BIO207: Intro. Genetics, Tutorial TA
+      * Facilitated tutorial discussion on topics related to Mendelian inheritance and modern genetics in an active learning classroom.
   * BIO206: Intro. Cell and Molecular Biology, Laboratory TA
+      * Led laboratory practical sessions demonstrating fundamental molecular biology protocols (e.g., gel electrophoresis, PCR, DNA/RNA extraction, cloning, spectrophotometry).
   * BIO202: Intro. Animal Physiology, Laboratory and Tutorial TA
+      * Led laboratory practical sessions teaching animal structure and function at the tissue and organ system level.
   * BIO152: Intro. Evolution and Evolutionary Genetics, Laboratory TA
+      * Led laboratory practical sessions teaching the principles of evolution and antibiotic resistance.
   """
 
 [[experience]]
@@ -55,7 +65,8 @@ date_format = "Jan 2006"
   date_start = "2017-09-01"
   date_end = "2018-04-30"
   description = """
-  * Title: ”Plastid genome assembly and annotation of a parasitic plant species”
-  * Senior undergraduate comparative genomics project involving the assembly and annotation of a chloroplast genome using Geneious
+  * Title: “Plastid genome assembly and annotation of a parasitic plant species.”
+  * Assembled and annotated a high-quality chloroplast genome using next-generation sequencing data within Geneious for a senior undergraduate comparative genomics project.
+
   """
 +++
