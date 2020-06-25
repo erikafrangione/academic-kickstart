@@ -29,7 +29,8 @@ subtitle = ""
   # gradient_end = "SkyBlue"
   
   # Background image.
-  image = "Synthetic-Biology.jpg"  # Name of image in `static/img/`.
+  {{< figure src="Synthetic-Biology.jpg" title="A caption" lightbox="true" >}}
+  ####image = "Synthetic-Biology.jpg"  # Name of image in `static/img/`.
   image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
   image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
   image_position = "center"  # Options include `left`, `center` (default), or `right`.
