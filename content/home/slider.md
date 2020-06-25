@@ -17,12 +17,12 @@ height = ""
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
   title = "Hello"
-  content = "Welcome to my website"
+  content = "Aspiring Bioinformatician"
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
-  overlay_color = "#666"  # An HTML color value.
+  overlay_color = "#555"  # An HTML color value.
   overlay_img = "header/c.Californica3.jpg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0 # Darken the image. Value in range 0-1.
 
