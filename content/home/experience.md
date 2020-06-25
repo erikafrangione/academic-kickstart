@@ -24,16 +24,20 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Mississauga, ON"
   date_start = "2018-09-01"
-  date_end = "2020-04-01"
+  date_end = "2020-04-30"
   description = """
   BIO360: Biometrics I (Biological Statistics), Computer Practical TA
   * Taught computer practical sessions for statistical hypothesis testing using R Studio (topics included teaching general R workflows for biostatistics with Rcmdr, parametric vs. non-parametric tests, power analysis, chi-squared tests, regression, and ANOVA).
+  
   BIO207: Intro. Genetics, Tutorial TA
   * Facilitated tutorial discussion on topics related to Mendelian inheritance and modern genetics in an active learning classroom.
+  
   BIO206: Intro. Cell and Molecular Biology, Laboratory TA
   * Led laboratory practical sessions demonstrating fundamental molecular biology protocols (e.g., gel electrophoresis, PCR, DNA/RNA extraction, cloning, spectrophotometry).
+  
   BIO202: Intro. Animal Physiology, Laboratory and Tutorial TA
   * Led laboratory practical sessions teaching animal structure and function at the tissue and organ system level.
+  
   BIO152: Intro. Evolution and Evolutionary Genetics, Laboratory TA
   * Led laboratory practical sessions teaching the principles of evolution and antibiotic resistance.
   """
