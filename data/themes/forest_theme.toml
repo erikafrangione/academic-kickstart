@@ -2,7 +2,7 @@
 name = "Forest"
 
 # Is theme light or dark?
-light = dark
+light = false
 
 # Primary
 primary = "#4caf50"
