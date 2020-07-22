@@ -29,12 +29,12 @@ Here, I’d like to share some of the best practices that I’ve learned for dat
 
 Reproducible research should be a crucial component of any project or research undertaking. Any individual should be able to download my data, repeat my analyses, and still end up with the same results. This helps to ensure research credibility, strengthens the importance of our gathered evidence, extends the reach of our findings to other collaborators who may be interested in continuing or designing a related project, and allows for the ease of reusing existing scripts or project protocols.
 One way we can ensure that our project is reproducible is by focusing on data management and organization from the get-go. Before even beginning our research, we can come up with a list of general questions to help us consider the types of data and data collection methods we might be dealing with, the different analyses we might need to perform, and the types of output files we might end up with. For example:
-**1.	How much raw data will we need to collect? **
-**2.	Will all our raw data be accessible at once or collected over a period of time? **
-**3.	How is our raw data structured and stored? **
-**4.	How will we process our raw data (i.e. does it need to be cleaned, trimmed, manipulated, combined with other datasets, etc.)? **
-**5.	What common analyses may we need to perform on our data? **
-**6.	What are our desired outcomes for this project (i.e. are we looking to generate a specific data visualization, record the results from a specific analysis, add to our existing findings or interpret entirely new evidence, etc.)? **
+1.	How much raw data will we need to collect?
+2.	Will all our raw data be accessible at once or collected over a period of time?
+3.	How is our raw data structured and stored?
+4.	How will we process our raw data (i.e. does it need to be cleaned, trimmed, manipulated, combined with other datasets, etc.)?
+5.	What common analyses may we need to perform on our data?
+6.	What are our desired outcomes for this project (i.e. are we looking to generate a specific data visualization, record the results from a specific analysis, add to our existing findings or interpret entirely new evidence, etc.)?
 
 Developing a simple schematic for the project can help you in maintaining a structured and well-organized research management system. While many of your initial answers to these questions may change throughout the course of the research, understanding a project’s fundamental design can help you and fellow researchers ensure the results remain reproducible, and aid you in achieving your original project goals.
 
