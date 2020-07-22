@@ -46,6 +46,9 @@ Developing a simple schematic for the project can help you in maintaining a stru
         <img src="images/directory_management.png" />
 </figure>
 
+
+![Figure_1](directory_management.png)
+
 ![Figure_1](/images/1_pic.png)
   ![Figure_2](/images/2_pic.png)
   ![dir_man](/images/directory_management.png)
