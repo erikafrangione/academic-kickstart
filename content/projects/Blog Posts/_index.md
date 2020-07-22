@@ -38,21 +38,7 @@ One way we can ensure that our project is reproducible is by focusing on data ma
 
 Developing a simple schematic for the project can help you in maintaining a structured and well-organized research management system. While many of your initial answers to these questions may change throughout the course of the research, understanding a project’s fundamental design can help you and fellow researchers ensure the results remain reproducible, and aid you in achieving your original project goals.
 
-<img src="/images/directory_management.png"
-     alt="Markdown Monster icon"
-     style="float: left; margin-right: 10px;" />
-
-<figure>
-        <img src="images/directory_management.png" />
-</figure>
-
-
 ![Figure_1](directory_management.png)
-
-![Figure_1](/images/1_pic.png)
-  ![Figure_2](/images/2_pic.png)
-  ![dir_man](/images/directory_management.png)
-![dir_man](images/directory_management.png)
 
 Here are some figures from my initial committee meetings in grad school. In the first figure, I outlined the major chapters of my thesis, distinguished here as “projects” (which would later be revised and saved for future chapters due to time constraints). In the second, I devised a basic flowchart outlining each stage of my project, and the potential software/tools I would use to conduct my desired analyses. Of course, many of these tools were replaced or removed in the final project, but having this handy flowchart available helped me consider how data had to be managed at each research stage.
 
