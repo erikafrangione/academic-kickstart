@@ -38,7 +38,11 @@ One way we can ensure that our project is reproducible is by focusing on data ma
 
 Developing a simple schematic for the project can help you in maintaining a structured and well-organized research management system. While many of your initial answers to these questions may change throughout the course of the research, understanding a project’s fundamental design can help you and fellow researchers ensure the results remain reproducible, and aid you in achieving your original project goals.
 
-  ![Figure_1](/images/1_pic.png)
+<img src="/images/directory_management.png"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
+
+![Figure_1](/images/1_pic.png)
   ![Figure_2](/images/2_pic.png)
   ![dir_man](/images/directory_management.png)
   
