@@ -90,7 +90,8 @@ When I am naming samples, I make sure to assign each sample a unique identifier.
 
 As my thesis project involved dealing with multiple unique plant species and populations of differing ploidy level, I felt it was important enough to include within all of my file naming conventions so that I did not accidently run an analysis using a diploid population when I meant to use a tetraploid. However, this convention was of specific importance to my project, and it may not be necessary to include such info into yours.
 
-Another way you can name files is by assigning your samples a three-letter code followed by a number, and if necessary, the species identifier. For example, for my Cuscuta project, I could also name samples using the convention CUS_001_A. These identifiers could be kept in a spreadsheet containing additional voucher and ploidy information.
+Another way you can name files is by assigning your samples a three-letter code followed by a number, and if necessary, the species identifier. For example, within my *Cuscuta* project I could also name samples using the convention CUS_001_A. These identifiers could be kept in a spreadsheet containing additional voucher and ploidy information.
+
 For files, ensure that the name of the file is descriptive enough that you know exactly what it represents. For example, if I had an R script that generated a bivariate correlation matrix, I could name the file “CorrelationMatrix.R.” However, owing to the fact that scripts tend to produce output, and that I may be using multiple versions of the same script to produce some result, it is helpful to add an additional identifier to the script name, such as “1_CorrelationMatrix.R.” This helps to link the correct script to the correct analysis output, “1_CorrelationMatrix.pdf”
 
 ## Version Control
