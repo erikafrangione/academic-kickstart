@@ -1,5 +1,5 @@
 ---
-title: Tutorials, Blog Posts, and Coding Solutions
+title: Portfolio
 layout: docs  # Do not modify.
 
 # Optional header image (relative to `static/img/` folder).
