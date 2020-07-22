@@ -41,7 +41,7 @@ Developing a simple schematic for the project can help you in maintaining a stru
 Project Goals      |  Project Flowchart
 :-------------------------:|:-------------------------:
 ![Figure_1](1_pic.png) |  ![Figure_2](2_pic.png)
-*Left: A summary of my initial project goals outlined in green. Each project plan involved different transcriptomic comparisions within and between four unique plant species, represented here by D (and DD), PS, V, and N. Right: A summary flowchart of my initial project steps for tackling my Project 1 and 2 goals. I included some of the potential software/tools that I might use for analysis within each stage of the project. This helped me in considering the type of data I might be handling at each stage of the research, and what the expected outputs of those analyses might be.*
+*Left: A summary of my initial project goals outlined in green. Each project plan involved different transcriptomic comparisions within and between four unique plant species, represented here by D (and DD), PS, V, and N. | Right: A summary flowchart of my initial project steps for tackling my Project 1 and 2 goals. I included some of the potential software/tools that I might use for analysis within each stage of the project. This helped me in considering the type of data I might be handling at each stage of the research, and what the expected outputs of those analyses might be.*
 
 Here are some figures from my initial committee meetings in grad school. In figure on the left, I outlined the major chapters of my thesis, distinguished here as “projects” (which would later be revised and saved for future chapters due to time constraints). In the second, I devised a basic flowchart outlining each stage of my project, and the potential software/tools I would use to conduct my desired analyses. Of course, many of these tools were replaced or removed in the final project, but having this handy flowchart available helped me consider how data had to be managed at each research stage.
 
@@ -77,9 +77,7 @@ When creating a README.md file, there are a number of questions you could consid
 *	**For an output directory**: What type of analysis was performed? When was it performed? What script and script version did you use to perform the analysis? For certain analyses, did you assign specific parameters or statistical cut-offs to run the analysis? What naming conventions does the output data follow?
  
 ![Figure_4](readme.png)
-*Figure 4: This is an exzmple README.md file that I might include in either my data or script directories. This file can be as simple as summarizing each file with a single line, or using more detail to describe the functionalities of each script, their purpose, and why it was written.*
-
-Here’s a simple README.md file that might be used for my data and scripts folders. This is written in Markdown using VCS.
+*Figure 4: This is an example README.md file that I might include in either my data or script directories. This file can be as simple as summarizing each file with a single line, or using more detail to describe the functionalities of each script, their purpose, and why it was written.*
 
 ## Naming Conventions
 
