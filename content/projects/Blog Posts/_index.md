@@ -38,8 +38,9 @@ One way we can ensure that our project is reproducible is by focusing on data ma
 
 Developing a simple schematic for the project can help you in maintaining a structured and well-organized research management system. While many of your initial answers to these questions may change throughout the course of the research, understanding a project’s fundamental design can help you and fellow researchers ensure the results remain reproducible, and aid you in achieving your original project goals.
 
-![Figure_1](1_pic.png)
-![Figure_2](2_pic.png)
+Project Goals      |  Project Flowchart
+:-------------------------:|:-------------------------:
+![Figure_1](1_pic.png) |  ![Figure_2](2_pic.png)
 
 Here are some figures from my initial committee meetings in grad school. In the first figure, I outlined the major chapters of my thesis, distinguished here as “projects” (which would later be revised and saved for future chapters due to time constraints). In the second, I devised a basic flowchart outlining each stage of my project, and the potential software/tools I would use to conduct my desired analyses. Of course, many of these tools were replaced or removed in the final project, but having this handy flowchart available helped me consider how data had to be managed at each research stage.
 
@@ -60,7 +61,7 @@ Within my main project directory, I also like to include the following subdirect
 Within my R and Jupyter notebooks, I split each of my analyses up into sections, each with their own separate annotated code chunk and explanation of the analysis written in markdown. This explanation includes the purpose for performing the analysis, what datasets it requires for input, and sometimes how the code can be modified to produce different output versions (e.g., generating a black/white vs. coloured figure in the final output based on journal recommendations).
 *	Output: This contains all results and figures generated from my scripts and analyses. These files are typically named in correspondence to the script used to generate them, such as “1_CorrelationPlot_Rnotebook.pdf” or “1_BLASTp_1e-3_output.tab.” It is also often helpful to create a “Preliminary Output” directory when attempting to generate new output. This way you can test out a new script or create a multitude of temporary files that won’t immediately get lost with the rest of your final output results. Once you have the correct output you need, you can then transfer only the necessary files to the main output directory and label them appropriately.
 
-![Figure_3](directory_management.png)
+![Figure_3](directory_management.jpg)
 
 ## Creating README.md Files
 
